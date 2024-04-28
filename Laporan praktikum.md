@@ -20,11 +20,11 @@ Memahami berbagai jenis algoritma pencarian dan mampu menerapkannya secara efisi
 
 **DASAR TEORI**
 
-Pencarian (Searching) merupakan langkah penting dalam pemrosesan data yang melibatkan proses menemukan nilai tertentu dalam suatu kumpulan data. Proses ini seringkali menghasilkan tiga kemungkinan: data ditemukan, lebih dari satu data ditemukan, atau data tidak ditemukan sama sekali. Untuk mengimplementasikan proses pencarian ini, terdapat dua metode utama yang umum digunakan: Sequential Search dan Binary Search. 
+Pencarian (Searching) merupakan langkah penting dalam pemrosesan data yang melibatkan proses menemukan nilai tertentu dalam suatu kumpulan data. Proses ini seringkali menghasilkan tiga kemungkinan: data ditemukan, lebih dari satu data ditemukan, atau data tidak ditemukan sama sekali. Untuk mengimplementasikan proses pencarian ini, terdapat dua metode utama yang umum digunakan: Sequential Search dan Binary Search [1]. 
 
-Sequential Search adalah metode pencarian yang sederhana, cocok digunakan untuk data yang tidak terurut. Dalam Sequential Search, setiap elemen dalam kumpulan data dibandingkan satu per satu secara berurutan, dimulai dari indeks pertama hingga terakhir. Proses pencarian akan berhenti saat elemen yang dicari ditemukan atau ketika seluruh kumpulan data telah diperiksa. Misalnya, untuk mencari sebuah angka dalam sebuah array, Sequential Search akan memeriksa setiap elemen secara berurutan hingga menemukan angka yang dicari atau sampai akhir array.
+Sequential Search adalah metode pencarian yang sederhana, cocok digunakan untuk data yang tidak terurut. Dalam Sequential Search, setiap elemen dalam kumpulan data dibandingkan satu per satu secara berurutan, dimulai dari indeks pertama hingga terakhir [2]. Proses pencarian akan berhenti saat elemen yang dicari ditemukan atau ketika seluruh kumpulan data telah diperiksa. Misalnya, untuk mencari sebuah angka dalam sebuah array, Sequential Search akan memeriksa setiap elemen secara berurutan hingga menemukan angka yang dicari atau sampai akhir array.
 
-Sementara itu, Binary Search digunakan untuk kumpulan data yang sudah terurut. Metode ini membagi kumpulan data menjadi dua bagian secara logika pada setiap tahap pencarian, kemudian membandingkan elemen tengah dengan data yang dicari. Berdasarkan perbandingan tersebut, pencarian dilanjutkan pada bagian yang relevan. Binary Search memiliki keunggulan efisiensi karena jumlah elemen yang perlu diperiksa berkurang secara eksponensial setiap langkahnya. Dengan demikian, pemilihan metode pencarian yang sesuai tergantung pada sifat data yang dimiliki dan tujuan dari proses pencarian yang dilakukan.
+Sementara itu, Binary Search digunakan untuk kumpulan data yang sudah terurut. Metode ini membagi kumpulan data menjadi dua bagian secara logika pada setiap tahap pencarian, kemudian membandingkan elemen tengah dengan data yang dicari [3]. Berdasarkan perbandingan tersebut, pencarian dilanjutkan pada bagian yang relevan. Binary Search memiliki keunggulan efisiensi karena jumlah elemen yang perlu diperiksa berkurang secara eksponensial setiap langkahnya. Dengan demikian, pemilihan metode pencarian yang sesuai tergantung pada sifat data yang dimiliki dan tujuan dari proses pencarian yang dilakukan.
 
 **GUIDED**
 
@@ -682,3 +682,9 @@ Press any key to continue . . .
 ```
 
 **DAFTAR PUSTAKA**
+Informatika, J. T., & Riau, S. (n.d.). ( Searching Algoritm ) Rahmaddeni.
+
+Sonita, A., & Sari, M. (2018). Implementasi Algoritma Sequential Searching Untuk Pencarian Nomor Surat Pada Sistem Arsip Elektronik. Pseudocode, 5(1), 1–9. https://doi.org/10.33369/pseudocode.5.1.1-9
+
+Utami, M., & Apridiansyah, Y. (2019). Implementasi Algoritma Sequential Searching Pada Sistem Pelayanan Puskesmas Menggunakan Bootstrap (Studi Kasus Puskesmas Kampung Bali Bengkulu). JSAI (Journal Scientific and Applied Informatics), 2(1), 81–86. https://doi.org/10.36085/jsai.v2i1.166
+
