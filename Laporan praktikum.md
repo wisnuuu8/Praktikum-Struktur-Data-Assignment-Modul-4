@@ -66,12 +66,12 @@ int main() {
 
 **BAGIAN 1**
 ```C++
-#include <iostream>
+#include iostream
 using namespace std;
 ```
 Interpretasi : 
 
-#include : Ini adalah direktif preprocessor yang menginstruksikan kompiler untuk menyertakan konten dari pustaka iostream. Pustaka ini menyediakan fungsi-fungsi untuk input-output standar, seperti cin dan cout.
+#include iostream : Ini adalah direktif preprocessor yang menginstruksikan kompiler untuk menyertakan konten dari pustaka iostream. Pustaka ini menyediakan fungsi-fungsi untuk input-output standar, seperti cin dan cout.
 
 using namespace std;: Ini adalah deklarasi yang memberi tahu kompiler bahwa kita akan menggunakan namespace std. Namespace std adalah tempat dimana semua fungsi dan objek standar C++, seperti cin dan cout, didefinisikan.
 
@@ -206,16 +206,16 @@ int main() {
 ```
 **BAGIAN 1**
 ```C++
-#include <iostream>
-#include <iomanip>
+#include iostream
+#include iomanip
 using namespace std;
 ```
 Interpretasi : 
 
-#include <iomanip> memasukkan library iomanip yang memberikan fungsi-fungsi untuk melakukan manipulasi output. Meskipun dalam program ini belum ada penggunaan iomanip, tetapi penulisannya bisa berguna jika nantinya kita akan memformat output dalam program.
+#include iomanip memasukkan library iomanip yang memberikan fungsi-fungsi untuk melakukan manipulasi output. Meskipun dalam program ini belum ada penggunaan iomanip, tetapi penulisannya bisa berguna jika nantinya kita akan memformat output dalam program.
 
 
-#include : Ini adalah direktif preprocessor yang menginstruksikan kompiler untuk menyertakan konten dari pustaka iostream. Pustaka ini menyediakan fungsi-fungsi untuk input-output standar, seperti cin dan cout.
+#include iostream: Ini adalah direktif preprocessor yang menginstruksikan kompiler untuk menyertakan konten dari pustaka iostream. Pustaka ini menyediakan fungsi-fungsi untuk input-output standar, seperti cin dan cout.
 
 using namespace std;: Ini adalah deklarasi yang memberi tahu kompiler bahwa kita akan menggunakan namespace std. Namespace std adalah tempat dimana semua fungsi dan objek standar C++, seperti cin dan cout, didefinisikan.
 
@@ -354,9 +354,9 @@ Press any key to continue . . .
 1. Buatlah sebuah program untuk mencari sebuah huruf pada sebuah
 kalimat yang sudah di input dengan menggunakan Binary Search!
 ```C++
-#include <iostream>
-#include <string>
-#include <algorithm>
+#include iostream
+#include string
+#include algorithm
 
 using namespace std;
 
@@ -415,19 +415,19 @@ int main() {
 ```
 **BAGIAN 1**
 ```C++
-#include <iostream>
-#include <string>
-#include <algorithm>
+#include iostream
+#include string
+#include algorithm
 
 using namespace std;
 ```
 Interpretasi : 
 
-<iostream> digunakan untuk mengakses fungsi-fungsi dasar input-output.
+iostream digunakan untuk mengakses fungsi-fungsi dasar input-output.
 
-<string> memberikan akses ke kelas dan fungsi-fungsi yang berkaitan dengan manipulasi string.
+string memberikan akses ke kelas dan fungsi-fungsi yang berkaitan dengan manipulasi string.
 
-<algorithm> memberikan akses ke fungsi-fungsi algoritma umum seperti sort(), binary_search(), dan lainnya.
+algorithm memberikan akses ke fungsi-fungsi algoritma umum seperti sort(), binary_search(), dan lainnya.
 
 **BAGIAN 2**
 ```C++
@@ -551,15 +551,15 @@ int main() {
 ```
 **BAGIAN 1**
 ```C++
-#include <iostream>
-#include <string> // Tambahkan header untuk tipe data string
+#include iostream
+#include string // Tambahkan header untuk tipe data string
 using namespace std;
 ```
 Interpretasi : 
 
-<iostream> digunakan untuk mengakses fungsi-fungsi dasar input-output.
+iostream digunakan untuk mengakses fungsi-fungsi dasar input-output.
 
-<string> memberikan akses ke kelas dan fungsi-fungsi yang berkaitan dengan manipulasi string.
+string memberikan akses ke kelas dan fungsi-fungsi yang berkaitan dengan manipulasi string.
 
 **BAGIAN 2**
 ```C++
@@ -627,12 +627,12 @@ int main() {
 ```
 **BAGIAN 1**
 ```C++
-#include <iostream>
+#include iostream
 using namespace std;
 ```
 Interpretasi :
 
-<iostream> digunakan untuk mengakses fungsi-fungsi dasar input-output.
+iostream digunakan untuk mengakses fungsi-fungsi dasar input-output.
 
 **BAGIAN 2**
 ```C++
