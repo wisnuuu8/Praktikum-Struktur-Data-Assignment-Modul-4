@@ -29,6 +29,7 @@ Sementara itu, Binary Search digunakan untuk kumpulan data yang sudah terurut. M
 **GUIDED**
 
 **GUIDED 1**
+
 1. Buatlah sebuah project dengan menggunakan sequential search 
 sederhana untuk melakukan pencarian data
 ```C++
@@ -121,6 +122,7 @@ Press any key to continue . . .
 ```
 
 **GUIDED 2**
+
 2. Buatlah sebuah project untuk melakukan pencarian data dengan 
 menggunakan Binary Search
 ```C++
@@ -348,6 +350,7 @@ Press any key to continue . . .
 **UNGUIDED**
 
 **UNGUIDED 1**
+
 1. Buatlah sebuah program untuk mencari sebuah huruf pada sebuah
 kalimat yang sudah di input dengan menggunakan Binary Search!
 ```C++
@@ -520,6 +523,7 @@ Press any key to continue . . .
 ```
 
 **UNGUIDED 2**
+
 2. Buatlah sebuah program yang dapat menghitung banyaknya huruf 
 vocal dalam sebuah kalimat!
 ```C++
@@ -592,6 +596,7 @@ Press any key to continue . . .
 ```
 
 **UNGUIDED 3**
+
 3. Diketahui data = 9, 4, 1, 4, 7, 10, 5, 4, 12, 4. Hitunglah berapa banyak 
 angka 4 dengan menggunakan algoritma Sequential Search!
 ```C++
