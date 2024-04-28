@@ -682,6 +682,7 @@ Press any key to continue . . .
 ```
 
 **DAFTAR PUSTAKA**
+
 Informatika, J. T., & Riau, S. (n.d.). ( Searching Algoritm ) Rahmaddeni.
 
 Sonita, A., & Sari, M. (2018). Implementasi Algoritma Sequential Searching Untuk Pencarian Nomor Surat Pada Sistem Arsip Elektronik. Pseudocode, 5(1), 1–9. https://doi.org/10.33369/pseudocode.5.1.1-9
